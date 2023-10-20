@@ -6,7 +6,7 @@
         <versionId value="6"/>
         <lastUpdated value="2023-06-19T05:57:53.782Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-antibiotics-during-labor"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-antibiotics-during-labor"/>
     <name value="ObservationAntibioticsAdministeredDuringLabor"/>
     <title value="Observation - Antibiotics Administered During Labor"/>
     <status value="active"/>

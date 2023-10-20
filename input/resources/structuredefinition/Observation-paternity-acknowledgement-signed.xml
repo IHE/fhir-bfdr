@@ -6,7 +6,7 @@
         <versionId value="15"/>
         <lastUpdated value="2023-06-19T09:13:53.340Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-paternity-acknowledgement-signed"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-paternity-acknowledgement-signed"/>
     <name value="ObservationPaternityAcknowledgementSigned"/>
     <title value="Observation - Paternity Acknowledgement Signed"/>
     <status value="active"/>

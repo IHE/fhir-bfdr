@@ -6,7 +6,7 @@
         <versionId value="5"/>
         <lastUpdated value="2023-06-19T06:22:10.019Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-nicu-admission"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-nicu-admission"/>
     <name value="ObservationNICUAdmission"/>
     <title value="Observation - NICU Admission"/>
     <status value="active"/>

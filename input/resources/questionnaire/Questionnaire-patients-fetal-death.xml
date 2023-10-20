@@ -6,7 +6,7 @@
         <versionId value="12"/>
         <lastUpdated value="2021-07-09T07:23:29.708Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/Questionnaire/Questionnaire-patients-fetal-death"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/Questionnaire/Questionnaire-patients-fetal-death"/>
     <version value="1.0.0"/>
     <name value="QuestionnairePatientsFetalDeathWorksheet"/>
     <title value="Questionnaire - Patient's Worksheet for the Report of Fetal Death"/>

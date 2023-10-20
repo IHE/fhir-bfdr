@@ -4,7 +4,7 @@
     <meta>
         <versionId value="3" />
         <lastUpdated value="2023-04-06T00:30:04.883Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-labor-trial-attempted" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-labor-trial-attempted" />
     </meta>
     <status value="final" />
     <code>

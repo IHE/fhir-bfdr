@@ -4,7 +4,7 @@
     <meta>
         <versionId value="2" />
         <lastUpdated value="2023-04-06T00:30:04.882Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-infant-breastfed-at-discharge" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-infant-breastfed-at-discharge" />
     </meta>
     <status value="final" />
     <code>

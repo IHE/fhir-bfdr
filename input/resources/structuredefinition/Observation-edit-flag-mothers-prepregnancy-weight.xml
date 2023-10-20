@@ -6,7 +6,7 @@
         <versionId value="7"/>
         <lastUpdated value="2023-06-19T06:20:18.457Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-mothers-prepregnancy-weight"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-mothers-prepregnancy-weight"/>
     <name value="ObservationEditFlagMothersPrepregnancyWeight"/>
     <title value="Observation - Edit Flag Mother's Prepregnancy Weight"/>
     <status value="active"/>

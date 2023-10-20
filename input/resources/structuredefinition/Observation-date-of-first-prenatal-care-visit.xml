@@ -6,7 +6,7 @@
         <versionId value="27"/>
         <lastUpdated value="2023-06-19T06:20:17.902Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit"/>
     <name value="ObservationDateOfFirstPrenatalCareVisit"/>
     <title value="Observation - Date of First Prenatal Care Visit"/>
     <status value="active"/>

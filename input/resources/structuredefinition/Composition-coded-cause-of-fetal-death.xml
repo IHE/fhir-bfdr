@@ -6,7 +6,7 @@
         <versionId value="27"/>
         <lastUpdated value="2023-06-19T10:59:57.805Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-coded-cause-of-fetal-death"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-coded-cause-of-fetal-death"/>
     <name value="CompositionCodedCauseOfFetalDeath"/>
     <title value="Composition - Coded Cause of Fetal Death"/>
     <status value="active"/>
@@ -49,7 +49,7 @@
             <max value="1"/>
             <type>
                 <code value="Extension"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-report-number"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-report-number"/>
             </type>
         </element>
         <element id="Composition.type">
@@ -134,7 +134,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-coded-initiating-fetal-death-cause-or-condition"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-coded-initiating-fetal-death-cause-or-condition"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -147,7 +147,7 @@
             <max value="*"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-coded-other-fetal-death-cause-or-condition"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-coded-other-fetal-death-cause-or-condition"/>
             </type>
             <mustSupport value="true"/>
         </element>

@@ -4,7 +4,7 @@
     <meta>
         <versionId value="5" />
         <lastUpdated value="2023-04-06T00:29:54.673Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-histological-placental-exam-performed" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-histological-placental-exam-performed" />
     </meta>
     <status value="final" />
     <code>

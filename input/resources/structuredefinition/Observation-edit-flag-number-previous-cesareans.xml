@@ -6,7 +6,7 @@
         <versionId value="7"/>
         <lastUpdated value="2023-06-19T06:20:18.434Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-number-previous-cesareans"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-number-previous-cesareans"/>
     <name value="ObservationEditFlagNumberPreviousCesareans"/>
     <title value="Observation - Edit Flag Number of Previous Cesareans"/>
     <status value="active"/>

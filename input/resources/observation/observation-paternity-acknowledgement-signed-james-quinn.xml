@@ -5,7 +5,7 @@
     <meta>
         <versionId value="7"/>
         <lastUpdated value="2023-04-06T00:30:57.414Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-paternity-acknowledgement-signed"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-paternity-acknowledgement-signed"/>
     </meta>
     <status value="final"/>
     <code>

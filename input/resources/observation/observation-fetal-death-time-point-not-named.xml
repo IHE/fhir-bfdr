@@ -4,7 +4,7 @@
     <meta>
         <versionId value="3" />
         <lastUpdated value="2023-04-06T00:29:42.491Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-estimated-fetal-death-time-point" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-estimated-fetal-death-time-point" />
     </meta>
     <status value="final" />
     <code>

@@ -5,9 +5,9 @@
     <meta>
         <versionId value="9"/>
         <lastUpdated value="2021-07-09T10:55:51.918Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-coded-race-and-ethnicity"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-coded-race-and-ethnicity"/>
     </meta>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-report-number">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-report-number">
         <valueIdentifier>
             <type>
                 <coding>

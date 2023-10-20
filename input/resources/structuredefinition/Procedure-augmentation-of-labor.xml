@@ -6,7 +6,7 @@
         <versionId value="4"/>
         <lastUpdated value="2023-06-21T06:38:27.806Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-augmentation-of-labor"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-augmentation-of-labor"/>
     <name value="ProcedureAugmentationOfLabor"/>
     <title value="Procedure - Augmentation of Labor"/>
     <status value="active"/>

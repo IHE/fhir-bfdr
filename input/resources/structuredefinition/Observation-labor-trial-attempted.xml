@@ -6,7 +6,7 @@
         <versionId value="16"/>
         <lastUpdated value="2023-06-19T06:23:44.105Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-labor-trial-attempted"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-labor-trial-attempted"/>
     <name value="ObservationLaborTrialAttempted"/>
     <title value="Observation - Labor Trial Attempted"/>
     <status value="active"/>

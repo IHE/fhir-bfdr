@@ -5,7 +5,7 @@
     <meta>
         <versionId value="2"/>
         <lastUpdated value="2023-04-06T00:29:21.759Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-fathers-date-of-birth"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-fathers-date-of-birth"/>
     </meta>
     <status value="final"/>
     <code>

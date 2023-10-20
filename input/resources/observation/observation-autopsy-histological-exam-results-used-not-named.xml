@@ -4,7 +4,7 @@
     <meta>
         <versionId value="6" />
         <lastUpdated value="2023-08-31T05:55:36.591Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-autopsy-histological-exam-results-used" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-autopsy-histological-exam-results-used" />
     </meta>
     <status value="final" />
     <code>

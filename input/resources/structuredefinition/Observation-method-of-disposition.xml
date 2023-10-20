@@ -6,7 +6,7 @@
         <versionId value="8"/>
         <lastUpdated value="2023-04-25T09:52:29.312Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-method-of-disposition"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-method-of-disposition"/>
     <name value="ObservationMethodOfDisposition"/>
     <title value="Observation - Method of Disposition"/>
     <status value="active"/>

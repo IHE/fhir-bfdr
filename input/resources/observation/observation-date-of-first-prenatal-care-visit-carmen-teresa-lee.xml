@@ -4,7 +4,7 @@
     <meta>
         <versionId value="4" />
         <lastUpdated value="2023-04-06T00:29:11.228Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit" />
     </meta>
     <status value="final" />
     <code>

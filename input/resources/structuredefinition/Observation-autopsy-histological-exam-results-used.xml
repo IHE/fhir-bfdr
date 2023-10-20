@@ -6,7 +6,7 @@
         <versionId value="9"/>
         <lastUpdated value="2023-08-29T04:20:59.550Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-autopsy-histological-exam-results-used"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-autopsy-histological-exam-results-used"/>
     <name value="ObservationAutopsyHistologicalExamResultsUsed"/>
     <title value="Observation - Autopsy or Histological Exam Results Used"/>
     <status value="active"/>
@@ -63,7 +63,7 @@
             <mustSupport value="true"/>
             <binding>
                 <strength value="required"/>
-                <valueSet value="http://hl7.org/fhir/us/bfdr/ValueSet/ValueSet-yes-no-not-applicable"/>
+                <valueSet value="https://profiles.ihe.net/QRPH/bfdr/ValueSet/ValueSet-yes-no-not-applicable"/>
             </binding>
         </element>
     </differential>

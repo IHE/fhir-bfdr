@@ -6,7 +6,7 @@
         <versionId value="4"/>
         <lastUpdated value="2023-06-19T06:22:09.915Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-assisted-ventilation-more-than-six-hours"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-assisted-ventilation-more-than-six-hours"/>
     <name value="ProcedureAssistedVentilationMoreThanSixHours"/>
     <title value="Procedure - Assisted Ventilation More Than Six Hours"/>
     <status value="active"/>

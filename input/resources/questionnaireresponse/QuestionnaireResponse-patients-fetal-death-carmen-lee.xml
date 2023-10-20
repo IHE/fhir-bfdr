@@ -6,7 +6,7 @@
         <versionId value="10"/>
         <lastUpdated value="2021-07-09T07:16:14.037Z"/>
     </meta>
-    <questionnaire value="http://hl7.org/fhir/us/bfdr/Questionnaire/Questionnaire-patients-fetal-death"/>
+    <questionnaire value="https://profiles.ihe.net/QRPH/bfdr/Questionnaire/Questionnaire-patients-fetal-death"/>
     <status value="completed"/>
     <subject>
         <reference value="Patient/patient-decedent-fetus-not-named"/>

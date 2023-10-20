@@ -6,7 +6,7 @@
         <versionId value="6"/>
         <lastUpdated value="2023-06-19T06:20:18.682Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-live-birth-certificate-number"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-live-birth-certificate-number"/>
     <name value="ExtensionLiveBirthCertificateNumber"/>
     <title value="Extension - Live Birth Certificate Number"/>
     <status value="active"/>
@@ -37,7 +37,7 @@
         </element>
         <element id="Extension.url">
             <path value="Extension.url"/>
-            <fixedUri value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-live-birth-certificate-number"/>
+            <fixedUri value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-live-birth-certificate-number"/>
         </element>
         <element id="Extension.value[x]">
             <path value="Extension.value[x]"/>

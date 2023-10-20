@@ -4,7 +4,7 @@
     <meta>
         <versionId value="2" />
         <lastUpdated value="2023-06-21T09:49:04.166Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-none-of-specified-characteristics-labor-delivery" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-none-of-specified-characteristics-labor-delivery" />
     </meta>
     <status value="final" />
     <code>

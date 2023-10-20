@@ -6,7 +6,7 @@
         <versionId value="1"/>
         <lastUpdated value="2023-08-29T04:20:12.649Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/ValueSet/ValueSet-yes-no-not-applicable"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/ValueSet/ValueSet-yes-no-not-applicable"/>
     <name value="ValueSetYesNoNotApplicable"/>
     <title value="ValueSet - Yes No NotApplicable"/>
     <status value="active"/>

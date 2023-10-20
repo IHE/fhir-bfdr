@@ -6,7 +6,7 @@
         <versionId value="29"/>
         <lastUpdated value="2023-06-22T01:15:52.603Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-maternity"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-maternity"/>
     <name value="EncounterMaternity"/>
     <title value="Encounter - Maternity"/>
     <status value="active"/>

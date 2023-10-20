@@ -6,7 +6,7 @@
         <versionId value="16"/>
         <lastUpdated value="2023-08-31T06:02:52.460Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-married-during-pregnancy"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-married-during-pregnancy"/>
     <name value="ObservationMotherMarriedDuringPregnancy"/>
     <title value="Observation - Mother Married During Pregnancy"/>
     <status value="active"/>

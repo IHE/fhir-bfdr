@@ -6,7 +6,7 @@
         <versionId value="3"/>
         <lastUpdated value="2023-04-25T09:55:36.108Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-seizure"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-seizure"/>
     <name value="ConditionSeizure"/>
     <title value="Condition - Seizure"/>
     <status value="active"/>

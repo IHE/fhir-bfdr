@@ -10,9 +10,9 @@ The definition for the Code System with URI 'https://nahdo.org/sopt' doesnt prov
 The definition for the Code System with URI 'http://www.ama-assn.org/go/cpt' doesnt provide any codes so the code cannot be validated
 # APPROVED by HL7 Cross Group Projects WG: https://confluence.hl7.org/pages/viewpage.action?pageId=97453270
 US FHIR Usage rules require that all profiles on Observation derive from one of the base US profiles
-WARNING: StructureDefinition.where(url = 'http://hl7.org/fhir/us/bfdr/StructureDefinition/Coverage-principal-payer-for-delivery').baseDefinition: US FHIR Usage rules require that all profiles on Coverage derive from the core US profile
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Coverage-principal-payer-for-delivery').baseDefinition: US FHIR Usage rules require that all profiles on Coverage derive from the core US profile
 # Examples have optional slices that are not defined in the profile - not matching is expected behaviour
-This element does not match any known slice defined in the profile http://hl7.org/fhir/us/bfdr/StructureDefinition/Bundle-document-bfdr|1.1.0
+This element does not match any known slice defined in the profile https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Bundle-document-bfdr|1.1.0
 # Due to issue with multiple Compositions
 Found multiple matching profiles for Patient/patient-decedent-fetus-not-named among choices: http://hl7.org/fhir/us/vr-common-library/StructureDefinition/Patient-child-vr, http://hl7.org/fhir/us/vr-common-library/StructureDefinition/Patient-decedent-fetus-vr
 # Information messages about draft condition category codes used in US Core

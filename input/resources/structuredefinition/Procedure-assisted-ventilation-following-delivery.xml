@@ -6,7 +6,7 @@
         <versionId value="3"/>
         <lastUpdated value="2023-06-19T06:22:09.893Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-assisted-ventilation-following-delivery"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-assisted-ventilation-following-delivery"/>
     <name value="ProcedureAssistedVentilationFollowingDelivery"/>
     <title value="Procedure - Assisted Ventilation Following Delivery"/>
     <status value="active"/>

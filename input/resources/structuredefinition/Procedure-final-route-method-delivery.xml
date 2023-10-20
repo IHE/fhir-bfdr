@@ -6,7 +6,7 @@
         <versionId value="21"/>
         <lastUpdated value="2023-06-21T05:48:10.490Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-final-route-method-delivery"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-final-route-method-delivery"/>
     <name value="ProcedureFinalRouteMethodDelivery"/>
     <title value="Procedure - Final Route and Method of Delivery"/>
     <status value="active"/>
@@ -53,7 +53,7 @@
             <short value="If cesarean, was a trial of labor attempted?"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-labor-trial-attempted"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-labor-trial-attempted"/>
             </type>
             <mustSupport value="true"/>
         </element>

@@ -5,7 +5,7 @@
     <meta>
         <versionId value="3"/>
         <lastUpdated value="2023-04-06T00:31:29.517Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-ssn-requested-for-child"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-ssn-requested-for-child"/>
     </meta>
     <status value="final"/>
     <code>

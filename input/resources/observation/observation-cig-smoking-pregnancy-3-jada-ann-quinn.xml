@@ -5,7 +5,7 @@
     <meta>
         <versionId value="4"/>
         <lastUpdated value="2023-06-21T10:17:52.644Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy"/>
     </meta>
     <status value="final"/>
     <code>

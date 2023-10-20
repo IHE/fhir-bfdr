@@ -6,7 +6,7 @@
         <versionId value="4"/>
         <lastUpdated value="2023-04-25T09:55:12.283Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-chorioamnionitis"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-chorioamnionitis"/>
     <name value="ConditionChorioamnionitis"/>
     <title value="Condition - Chorioamnionitis"/>
     <status value="active"/>

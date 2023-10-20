@@ -6,7 +6,7 @@
         <versionId value="25"/>
         <lastUpdated value="2023-06-19T08:44:39.089Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-infection-present-during-pregnancy"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-infection-present-during-pregnancy"/>
     <name value="ConditionInfectionPresentDuringPregnancy"/>
     <title value="Condition - Infection Present During Pregnancy"/>
     <status value="active"/>

@@ -6,7 +6,7 @@
         <versionId value="1"/>
         <lastUpdated value="2023-06-21T23:24:24.183Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/CodeSystem/CodeSystem-replacement-status"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/CodeSystem/CodeSystem-replacement-status"/>
     <name value="CodeSystemReplacement"/>
     <title value="CodeSystem - Replacement Status"/>
     <status value="active"/>

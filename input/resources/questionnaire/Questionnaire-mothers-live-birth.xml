@@ -6,7 +6,7 @@
         <versionId value="11"/>
         <lastUpdated value="2023-04-06T00:35:49.604Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/Questionnaire/Questionnaire-mothers-live-birth"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/Questionnaire/Questionnaire-mothers-live-birth"/>
     <version value="1.0.0"/>
     <name value="QuestionnaireMothersWorksheetChildsBirthCertificate"/>
     <title value="Questionnaire - Mother's Worksheet for Child's Birth Certificate"/>
@@ -308,7 +308,7 @@
     </item>
     <item>
         <linkId value="receive-wic"/>
-        <definition value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-received-wic-food#Observation.code"/>
+        <definition value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-received-wic-food#Observation.code"/>
         <prefix value="11"/>
         <text value="Did you receive WIC (Women, Infants and Children) food for yourself during this pregnancy?"/>
         <type value="choice"/>

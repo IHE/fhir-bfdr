@@ -4,7 +4,7 @@
     <meta>
         <versionId value="1" />
         <lastUpdated value="2023-06-21T07:17:06.816Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-nicu-admission" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-nicu-admission" />
     </meta>
     <status value="final" />
     <code>

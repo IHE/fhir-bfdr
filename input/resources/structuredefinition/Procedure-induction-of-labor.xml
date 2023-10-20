@@ -6,7 +6,7 @@
         <versionId value="3"/>
         <lastUpdated value="2023-06-21T05:48:29.041Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-induction-of-labor"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-induction-of-labor"/>
     <name value="ProcedureInductionOfLabor"/>
     <title value="Procedure - Induction of Labor"/>
     <status value="active"/>

@@ -6,7 +6,7 @@
         <versionId value="20"/>
         <lastUpdated value="2023-06-21T10:26:11.296Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-fetal-death-cause-or-condition"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-fetal-death-cause-or-condition"/>
     <name value="ConditionFetalDeathCauseOrCondition"/>
     <title value="Condition - Fetal Death Cause or Condition"/>
     <status value="active"/>

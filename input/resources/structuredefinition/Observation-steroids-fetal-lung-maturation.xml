@@ -6,7 +6,7 @@
         <versionId value="5"/>
         <lastUpdated value="2023-06-19T05:59:18.818Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-steroids-fetal-lung-maturation"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-steroids-fetal-lung-maturation"/>
     <name value="ObservationSteroidsFetalLungMaturation"/>
     <title value="Observation - Administration of Steroids for Fetal Lung Maturation"/>
     <status value="active"/>

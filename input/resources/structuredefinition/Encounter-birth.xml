@@ -6,7 +6,7 @@
         <versionId value="35"/>
         <lastUpdated value="2023-06-22T01:17:33.864Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-birth"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-birth"/>
     <name value="EncounterBirth"/>
     <title value="Encounter - Birth"/>
     <status value="active"/>
@@ -172,7 +172,7 @@
             <definition value="Reference to the mother's maternity encounter"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-maternity"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-maternity"/>
             </type>
             <mustSupport value="true"/>
         </element>

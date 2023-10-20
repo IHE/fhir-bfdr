@@ -6,7 +6,7 @@
         <versionId value="31"/>
         <lastUpdated value="2023-06-19T09:54:40.052Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-congenital-anomaly-of-newborn"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-congenital-anomaly-of-newborn"/>
     <name value="ConditionCongenitalAnomalyOfNewborn"/>
     <title value="Condition - Congenital Anomaly of Newborn"/>
     <status value="active"/>

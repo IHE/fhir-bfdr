@@ -6,7 +6,7 @@
         <versionId value="10"/>
         <lastUpdated value="2023-06-22T02:26:29.171Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Bundle-document-bfdr"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Bundle-document-bfdr"/>
     <name value="BundleDocumentBFDR"/>
     <title value="Bundle - Document Birth and Fetal Death"/>
     <status value="active"/>
@@ -61,10 +61,10 @@
             <min value="1"/>
             <type>
                 <code value="Resource"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-provider-live-birth-report"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-provider-fetal-death-report"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-jurisdiction-live-birth-report"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-jurisdiction-fetal-death-report"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-provider-live-birth-report"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-provider-fetal-death-report"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-jurisdiction-live-birth-report"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-jurisdiction-fetal-death-report"/>
             </type>
             <mustSupport value="true"/>
         </element>

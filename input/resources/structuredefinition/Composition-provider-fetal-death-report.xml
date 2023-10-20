@@ -6,7 +6,7 @@
         <versionId value="93"/>
         <lastUpdated value="2023-08-31T04:31:42.334Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-provider-fetal-death-report"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-provider-fetal-death-report"/>
     <name value="CompositionProviderFetalDeathReport"/>
     <title value="Composition - Provider Fetal Death Report"/>
     <status value="active"/>
@@ -50,7 +50,7 @@
             <max value="1"/>
             <type>
                 <code value="Extension"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-report-number"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-report-number"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -61,7 +61,7 @@
             <max value="1"/>
             <type>
                 <code value="Extension"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-local-file-number"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-local-file-number"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -72,7 +72,7 @@
             <max value="1"/>
             <type>
                 <code value="Extension"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-date-received-by-registrar"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-date-received-by-registrar"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -82,7 +82,7 @@
             <max value="1"/>
             <type>
                 <code value="Extension"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-replacement-status"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-replacement-status"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -121,7 +121,7 @@
             <definition value="The Encounter for the Composition is the mother's maternity encounter."/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-maternity"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-maternity"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -129,7 +129,7 @@
             <path value="Composition.encounter.extension"/>
             <type>
                 <code value="Extension"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-encounter-maternity-reference"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-encounter-maternity-reference"/>
             </type>
         </element>
         <element id="Composition.date">
@@ -217,7 +217,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-planned-to-deliver-at-home"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-planned-to-deliver-at-home"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -229,7 +229,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -277,7 +277,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-last-live-birth"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-last-live-birth"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -313,7 +313,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-received-wic-food"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-received-wic-food"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -325,7 +325,7 @@
             <max value="4"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -417,7 +417,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-fetal-presentation"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-fetal-presentation"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -429,7 +429,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-final-route-method-delivery"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-final-route-method-delivery"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -440,12 +440,12 @@
             <definition value="Serious complications experienced by the mother associated with labor and delivery"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-blood-transfusion"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-perineal-laceration"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-ruptured-uterus"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-unplanned-hysterectomy"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-icu-admission"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-none-of-specified-maternal-morbidities"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-blood-transfusion"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-perineal-laceration"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-ruptured-uterus"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-unplanned-hysterectomy"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-icu-admission"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-none-of-specified-maternal-morbidities"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -517,7 +517,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-fetal-death-cause-or-condition"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-fetal-death-cause-or-condition"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -528,7 +528,7 @@
             <definition value="Another significant cause or condition for the death of the fetus."/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-fetal-death-other-cause-or-condition"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-fetal-death-other-cause-or-condition"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -541,7 +541,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-estimated-fetal-death-time-point"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-estimated-fetal-death-time-point"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -565,7 +565,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-histological-placental-exam-performed"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-histological-placental-exam-performed"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -577,7 +577,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-autopsy-histological-exam-results-used"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-autopsy-histological-exam-results-used"/>
             </type>
             <mustSupport value="true"/>
         </element>

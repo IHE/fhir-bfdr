@@ -6,7 +6,7 @@
         <versionId value="7"/>
         <lastUpdated value="2023-06-19T06:20:18.368Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-mothers-height"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-mothers-height"/>
     <name value="ObservationEditFlagMothersHeight"/>
     <title value="Observation - Edit Flag Mother's Height"/>
     <status value="active"/>

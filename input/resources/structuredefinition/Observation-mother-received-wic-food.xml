@@ -6,7 +6,7 @@
         <versionId value="26"/>
         <lastUpdated value="2023-06-19T06:59:38.410Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-received-wic-food"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-received-wic-food"/>
     <name value="ObservationMotherReceivedWICFood"/>
     <title value="Observation - Mother Recieved WIC Food"/>
     <status value="active"/>

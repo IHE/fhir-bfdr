@@ -6,7 +6,7 @@
         <versionId value="7"/>
         <lastUpdated value="2023-06-19T06:20:18.487Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-number-prenatal-care-visits"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-number-prenatal-care-visits"/>
     <name value="ObservationEditFlagNumberPrenatalCareVisits"/>
     <title value="Observation - Edit Flag Number Prenatal Care Visits"/>
     <status value="active"/>

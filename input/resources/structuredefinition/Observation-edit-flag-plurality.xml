@@ -6,7 +6,7 @@
         <versionId value="7"/>
         <lastUpdated value="2023-06-19T06:20:18.561Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-plurality"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-plurality"/>
     <name value="ObservationEditFlagPlurality"/>
     <title value="Observation - Edit Flag Plurality"/>
     <status value="active"/>

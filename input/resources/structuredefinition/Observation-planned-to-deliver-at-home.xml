@@ -6,7 +6,7 @@
         <versionId value="23"/>
         <lastUpdated value="2023-06-19T07:03:39.055Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-planned-to-deliver-at-home"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-planned-to-deliver-at-home"/>
     <name value="ObservationPlannedToDeliverAtHome"/>
     <title value="Observation - Planned to Deliver at Home"/>
     <status value="active"/>

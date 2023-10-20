@@ -6,7 +6,7 @@
         <versionId value="7"/>
         <lastUpdated value="2023-06-19T06:20:18.532Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-mothers-delivery-weight"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-mothers-delivery-weight"/>
     <name value="ObservationEditFlagMothersDeliveryWeight"/>
     <title value="Observation - Edit Flag Mother's Delivery Weight"/>
     <status value="active"/>

@@ -4,7 +4,7 @@
     <meta>
         <versionId value="4" />
         <lastUpdated value="2023-07-07T02:39:35.768Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Bundle-document-bfdr" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Bundle-document-bfdr" />
     </meta>
     <identifier>
         <system value="urn:ietf:rfc:3986" />
@@ -18,9 +18,9 @@
             <Composition>
                 <id value="composition-provider-live-birth-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-provider-live-birth-report" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-provider-live-birth-report" />
                 </meta>
-                <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-live-birth-certificate-number">
+                <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-live-birth-certificate-number">
                     <valueIdentifier>
                         <type>
                             <coding>
@@ -31,7 +31,7 @@
                         <value value="15075" />
                     </valueIdentifier>
                 </extension>
-                <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-live-birth-local-file-number">
+                <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-live-birth-local-file-number">
                     <valueIdentifier>
                         <type>
                             <coding>
@@ -42,7 +42,7 @@
                         <value value="444455555" />
                     </valueIdentifier>
                 </extension>
-                <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-date-filed-by-registrar">
+                <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-date-filed-by-registrar">
                     <valueDateTime value="2019-02-12" />
                 </extension>
                 <identifier>
@@ -61,7 +61,7 @@
                     <display value="Patient - Child (Baby G Quinn)" />
                 </subject>
                 <encounter>
-                    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-encounter-maternity-reference">
+                    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-encounter-maternity-reference">
                         <valueReference>
                             <reference value="Encounter/encounter-maternity-jada-ann-quinn" />
                         </valueReference>
@@ -400,7 +400,7 @@
             <Encounter>
                 <id value="encounter-birth-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-birth" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-birth" />
                 </meta>
                 <identifier>
                     <system value="http://hospital.smarthealthit.org" />
@@ -496,7 +496,7 @@
             <Encounter>
                 <id value="encounter-maternity-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-maternity" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-maternity" />
                 </meta>
                 <identifier>
                     <system value="http://hospital.smarthealthit.org" />
@@ -733,7 +733,7 @@
             <Observation>
                 <id value="observation-planned-to-deliver-at-home-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-planned-to-deliver-at-home" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-planned-to-deliver-at-home" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -766,7 +766,7 @@
             <Observation>
                 <id value="observation-date-of-first-prenatal-care-visit-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -919,7 +919,7 @@
             <Observation>
                 <id value="observation-date-of-last-live-birth-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-last-live-birth" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-last-live-birth" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -981,7 +981,7 @@
             <Observation>
                 <id value="observation-date-of-last-other-pregnancy-outcome-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-last-other-pregnancy-outcome" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-last-other-pregnancy-outcome" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1014,7 +1014,7 @@
             <Coverage>
                 <id value="coverage-principal-payer-for-delivery-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Coverage-principal-payer-for-delivery" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Coverage-principal-payer-for-delivery" />
                 </meta>
                 <status value="active" />
                 <type>
@@ -1164,7 +1164,7 @@
             <Observation>
                 <id value="observation-mother-received-wic-food-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-received-wic-food" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-received-wic-food" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1203,7 +1203,7 @@
             <Observation>
                 <id value="observation-cig-smoking-pregnancy-1-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1236,7 +1236,7 @@
             <Observation>
                 <id value="observation-cig-smoking-pregnancy-2-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1269,7 +1269,7 @@
             <Observation>
                 <id value="observation-cig-smoking-pregnancy-3-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1302,7 +1302,7 @@
             <Observation>
                 <id value="observation-cig-smoking-pregnancy-4-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1439,7 +1439,7 @@
             <Condition>
                 <id value="condition-infection-present-during-pregnancy-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-infection-present-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-infection-present-during-pregnancy" />
                 </meta>
                 <clinicalStatus>
                     <coding>
@@ -1484,7 +1484,7 @@
             <Procedure>
                 <id value="procedure-obstetric-procedure-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-obstetric" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-obstetric" />
                 </meta>
                 <status value="completed" />
                 <code>
@@ -1520,7 +1520,7 @@
             <Condition>
                 <id value="condition-chorioamnionitis-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-chorioamnionitis" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-chorioamnionitis" />
                 </meta>
                 <clinicalStatus>
                     <coding>
@@ -1556,7 +1556,7 @@
             <Procedure>
                 <id value="procedure-induction-of-labor-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-induction-of-labor" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-induction-of-labor" />
                 </meta>
                 <status value="completed" />
                 <code>
@@ -1583,7 +1583,7 @@
             <Observation>
                 <id value="observation-fetal-presentation-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-fetal-presentation" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-fetal-presentation" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1617,7 +1617,7 @@
             <Procedure>
                 <id value="procedure-final-route-method-delivery-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-final-route-method-delivery" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-final-route-method-delivery" />
                 </meta>
                 <status value="completed" />
                 <code>
@@ -1649,7 +1649,7 @@
             <Condition>
                 <id value="condition-ruptured-uterus-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-ruptured-uterus" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-ruptured-uterus" />
                 </meta>
                 <clinicalStatus>
                     <coding>
@@ -1833,7 +1833,7 @@
             <Condition>
                 <id value="condition-congenital-anomaly-of-newborn-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-congenital-anomaly-of-newborn" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-congenital-anomaly-of-newborn" />
                 </meta>
                 <clinicalStatus>
                     <coding>
@@ -1878,7 +1878,7 @@
             <Condition>
                 <id value="condition-congenital-anomaly-of-newborn-babyg-quinn-2" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-congenital-anomaly-of-newborn" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-congenital-anomaly-of-newborn" />
                 </meta>
                 <clinicalStatus>
                     <coding>
@@ -1961,7 +1961,7 @@
             <Observation>
                 <id value="observation-infant-breastfed-at-discharge-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-infant-breastfed-at-discharge" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-infant-breastfed-at-discharge" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1990,7 +1990,7 @@
             <Observation>
                 <id value="observation-mother-married-during-pregnancy-jada-ann-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-married-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-married-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -2066,7 +2066,7 @@
             <Observation>
                 <id value="observation-ssn-requested-for-child-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-ssn-requested-for-child" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-ssn-requested-for-child" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -2169,7 +2169,7 @@
             <Observation>
                 <id value="observation-paternity-acknowledgement-signed-james-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-paternity-acknowledgement-signed" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-paternity-acknowledgement-signed" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -2244,7 +2244,7 @@
         <resource>
             <QuestionnaireResponse>
                 <id value="QuestionnaireResponse-mothers-live-birth-jada-quinn" />
-                <questionnaire value="http://hl7.org/fhir/us/bfdr/Questionnaire/Questionnaire-mothers-live-birth" />
+                <questionnaire value="https://profiles.ihe.net/QRPH/bfdr/Questionnaire/Questionnaire-mothers-live-birth" />
                 <status value="completed" />
                 <subject>
                     <reference value="Patient/patient-child-babyg-quinn" />
@@ -2891,7 +2891,7 @@
             <Observation>
                 <id value="observation-labor-trial-attempted-babyg-quinn" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-labor-trial-attempted" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-labor-trial-attempted" />
                 </meta>
                 <status value="final" />
                 <code>

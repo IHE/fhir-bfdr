@@ -6,7 +6,7 @@
         <versionId value="1"/>
         <lastUpdated value="2023-06-21T23:24:24.587Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/ValueSet/ValueSet-replacement-status"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/ValueSet/ValueSet-replacement-status"/>
     <name value="ValueSetReplacementStatus"/>
     <title value="ValueSet - Replacement Status"/>
     <status value="active"/>
@@ -22,7 +22,7 @@
     </jurisdiction>
     <compose>
         <include>
-            <system value="http://hl7.org/fhir/us/bfdr/CodeSystem/CodeSystem-replacement-status"/>
+            <system value="https://profiles.ihe.net/QRPH/bfdr/CodeSystem/CodeSystem-replacement-status"/>
             <concept>
                 <code value="original"/>
                 <display value="original record"/>

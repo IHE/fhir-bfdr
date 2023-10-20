@@ -5,7 +5,7 @@
     <meta>
         <versionId value="7"/>
         <lastUpdated value="2023-04-07T08:25:31.419Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Coverage-principal-payer-for-delivery"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Coverage-principal-payer-for-delivery"/>
     </meta>
     <status value="active"/>
     <type>

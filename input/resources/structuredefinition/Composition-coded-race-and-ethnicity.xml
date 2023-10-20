@@ -6,7 +6,7 @@
         <versionId value="51"/>
         <lastUpdated value="2023-06-21T21:41:56.319Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-coded-race-and-ethnicity"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-coded-race-and-ethnicity"/>
     <name value="CompositionCodedRaceAndEthnicity"/>
     <title value="Composition - Coded Race and Ethnicity"/>
     <status value="active"/>
@@ -48,7 +48,7 @@
             <max value="1"/>
             <type>
                 <code value="Extension"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-report-number"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-report-number"/>
             </type>
             <mustSupport value="true"/>
         </element>
@@ -58,7 +58,7 @@
             <max value="1"/>
             <type>
                 <code value="Extension"/>
-                <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-live-birth-certificate-number"/>
+                <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-live-birth-certificate-number"/>
             </type>
             <mustSupport value="true"/>
         </element>

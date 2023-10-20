@@ -5,7 +5,7 @@
     <meta>
         <versionId value="2"/>
         <lastUpdated value="2023-06-21T09:34:26.767Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-unplanned-hysterectomy"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-unplanned-hysterectomy"/>
     </meta>
     <status value="completed"/>
     <code>

@@ -6,7 +6,7 @@
         <versionId value="2"/>
         <lastUpdated value="2023-06-19T06:22:09.938Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-surfactant-replacement-therapy"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-surfactant-replacement-therapy"/>
     <name value="ProcedureSurfactantReplacementTherapy"/>
     <title value="Procedure - Surfactant Replacement Therapy"/>
     <status value="active"/>

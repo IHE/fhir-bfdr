@@ -6,7 +6,7 @@
         <versionId value="3"/>
         <lastUpdated value="2023-06-19T06:22:09.991Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-none-of-specified-abnormal-conditions-of-newborn"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-none-of-specified-abnormal-conditions-of-newborn"/>
     <name value="ObservationNoneOfSpecifiedAbnormalConditionsOfNewborn"/>
     <title value="Observation - None Of Specified Abnormal Conditions of Newborn"/>
     <status value="active"/>

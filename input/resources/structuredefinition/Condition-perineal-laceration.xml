@@ -6,7 +6,7 @@
         <versionId value="5"/>
         <lastUpdated value="2023-04-25T09:55:29.397Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-perineal-laceration"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-perineal-laceration"/>
     <name value="ConditionPerinealLaceration"/>
     <title value="Condition - Perineal Laceration"/>
     <status value="active"/>

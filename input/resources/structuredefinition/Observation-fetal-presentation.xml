@@ -6,7 +6,7 @@
         <versionId value="10"/>
         <lastUpdated value="2023-04-25T09:52:36.059Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-fetal-presentation"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-fetal-presentation"/>
     <name value="ObservationFetalPresentation"/>
     <title value="Observation - Fetal Presentation at Birth/Delivery"/>
     <status value="active"/>

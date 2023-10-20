@@ -5,7 +5,7 @@
     <meta>
         <versionId value="5"/>
         <lastUpdated value="2023-04-06T00:30:24.887Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-received-wic-food"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-received-wic-food"/>
     </meta>
     <status value="final"/>
     <code>

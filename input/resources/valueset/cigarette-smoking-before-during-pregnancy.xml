@@ -6,7 +6,7 @@
         <versionId value="5"/>
         <lastUpdated value="2023-02-16T20:18:01.777Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/ValueSet/cigarette-smoking-before-during-pregnancy"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/ValueSet/cigarette-smoking-before-during-pregnancy"/>
     <name value="CigaretteSmokingBeforeAndDuringPregnancy"/>
     <title value="Cigarette Smoking Before and During Pregnancy"/>
     <status value="active"/>

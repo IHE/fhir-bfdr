@@ -6,7 +6,7 @@
         <versionId value="11"/>
         <lastUpdated value="2023-06-19T06:20:18.190Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-histological-placental-exam-performed"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-histological-placental-exam-performed"/>
     <name value="ObservationHistologicalPlacentalExamPerformed"/>
     <title value="Observation - Histological Placental Exam Performed"/>
     <status value="active"/>

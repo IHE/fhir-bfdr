@@ -6,7 +6,7 @@
         <versionId value="2"/>
         <lastUpdated value="2023-06-19T07:38:17.069Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-encounter-maternity-reference"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-encounter-maternity-reference"/>
     <name value="ExtensionEncounterMaternityReference"/>
     <title value="Extension - Encounter Maternity Reference"/>
     <status value="active"/>
@@ -37,7 +37,7 @@
         </element>
         <element id="Extension.url">
             <path value="Extension.url"/>
-            <fixedUri value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-encounter-maternity-reference"/>
+            <fixedUri value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-encounter-maternity-reference"/>
         </element>
         <element id="Extension.value[x]">
             <path value="Extension.value[x]"/>
@@ -45,7 +45,7 @@
             <max value="1"/>
             <type>
                 <code value="Reference"/>
-                <targetProfile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-maternity"/>
+                <targetProfile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-maternity"/>
             </type>
         </element>
     </differential>

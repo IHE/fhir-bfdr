@@ -6,7 +6,7 @@
         <versionId value="4"/>
         <lastUpdated value="2021-04-21T03:55:32.892Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/CapabilityStatement/CapabilityStatement-bfdr"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/CapabilityStatement/CapabilityStatement-bfdr"/>
     <version value="1.0.0"/>
     <name value="CapabilityStatementBFDR"/>
     <title value="CapabilityStatement - Birth and Fetal Death"/>
@@ -20,26 +20,26 @@
     <format value="json"/>
     <document>
         <mode value="producer"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-provider-live-birth-report"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-provider-live-birth-report"/>
     </document>
     <document>
         <mode value="producer"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-provider-fetal-death-report"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-provider-fetal-death-report"/>
     </document>
     <document>
         <mode value="producer"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-jurisdiction-live-birth-report"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-jurisdiction-live-birth-report"/>
     </document>
     <document>
         <mode value="producer"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-jurisdiction-fetal-death-report"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-jurisdiction-fetal-death-report"/>
     </document>
     <document>
         <mode value="producer"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-coded-cause-of-fetal-death"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-coded-cause-of-fetal-death"/>
     </document>
     <document>
         <mode value="producer"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-coded-race-and-ethnicity"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-coded-race-and-ethnicity"/>
     </document>
 </CapabilityStatement>

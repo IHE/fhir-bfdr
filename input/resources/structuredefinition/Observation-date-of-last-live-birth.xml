@@ -6,7 +6,7 @@
         <versionId value="14"/>
         <lastUpdated value="2023-08-31T05:58:25.223Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-last-live-birth"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-last-live-birth"/>
     <name value="ObservationDateOfLastLiveBirth"/>
     <title value="Observation - Date of Last Live Birth"/>
     <status value="active"/>

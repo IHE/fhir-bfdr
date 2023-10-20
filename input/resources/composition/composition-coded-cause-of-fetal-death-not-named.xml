@@ -5,9 +5,9 @@
     <meta>
         <versionId value="9"/>
         <lastUpdated value="2021-05-14T12:25:21.905Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-coded-cause-of-fetal-death"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-coded-cause-of-fetal-death"/>
     </meta>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-report-number">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-report-number">
         <valueIdentifier>
             <type>
                 <coding>

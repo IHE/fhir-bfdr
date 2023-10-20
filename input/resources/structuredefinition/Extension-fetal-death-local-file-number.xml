@@ -6,7 +6,7 @@
         <versionId value="8"/>
         <lastUpdated value="2023-06-19T06:20:18.633Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-local-file-number"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-local-file-number"/>
     <name value="ExtensionFetalDeathLocalFileNumber"/>
     <title value="Extension - Fetal Death Local File Number"/>
     <status value="active"/>
@@ -37,7 +37,7 @@
         </element>
         <element id="Extension.url">
             <path value="Extension.url"/>
-            <fixedUri value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-local-file-number"/>
+            <fixedUri value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-local-file-number"/>
         </element>
         <element id="Extension.value[x]">
             <path value="Extension.value[x]"/>

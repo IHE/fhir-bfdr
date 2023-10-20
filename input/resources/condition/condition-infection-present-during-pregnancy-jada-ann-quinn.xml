@@ -5,7 +5,7 @@
     <meta>
         <versionId value="4"/>
         <lastUpdated value="2023-04-18T10:29:15.476Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-infection-present-during-pregnancy"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-infection-present-during-pregnancy"/>
     </meta>
     <clinicalStatus>
         <coding>

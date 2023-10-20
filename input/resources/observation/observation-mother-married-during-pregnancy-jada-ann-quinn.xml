@@ -5,7 +5,7 @@
     <meta>
         <versionId value="8"/>
         <lastUpdated value="2023-04-06T00:30:15.640Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-married-during-pregnancy"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-married-during-pregnancy"/>
     </meta>
     <status value="final"/>
     <code>

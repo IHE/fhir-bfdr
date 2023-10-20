@@ -5,7 +5,7 @@
     <meta>
         <versionId value="1"/>
         <lastUpdated value="2023-06-21T05:43:25.232Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-surfactant-replacement-therapy"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-surfactant-replacement-therapy"/>
     </meta>
     <status value="completed"/>
     <code>

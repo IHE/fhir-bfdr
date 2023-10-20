@@ -5,7 +5,7 @@
     <meta>
         <versionId value="14"/>
         <lastUpdated value="2021-05-14T11:49:47.073Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-maternity"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-maternity"/>
     </meta>
     <identifier>
         <system value="http://hospital.smarthealthit.org"/>

@@ -5,7 +5,7 @@
     <meta>
         <versionId value="1"/>
         <lastUpdated value="2023-04-25T05:53:41.404Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-induction-of-labor"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-induction-of-labor"/>
     </meta>
     <status value="completed"/>
     <code>

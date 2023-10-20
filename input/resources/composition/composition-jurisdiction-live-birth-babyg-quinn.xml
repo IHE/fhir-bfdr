@@ -5,9 +5,9 @@
     <meta>
         <versionId value="37"/>
         <lastUpdated value="2023-08-29T06:22:59.102Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-jurisdiction-live-birth-report"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-jurisdiction-live-birth-report"/>
     </meta>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-live-birth-certificate-number">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-live-birth-certificate-number">
         <valueIdentifier>
             <type>
                 <coding>
@@ -18,7 +18,7 @@
             <value value="15075"/>
         </valueIdentifier>
     </extension>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-live-birth-local-file-number">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-live-birth-local-file-number">
         <valueIdentifier>
             <type>
                 <coding>
@@ -29,7 +29,7 @@
             <value value="4444-55555"/>
         </valueIdentifier>
     </extension>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-date-filed-by-registrar">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-date-filed-by-registrar">
         <valueDateTime value="2019-02-12"/>
     </extension>
     <identifier>
@@ -48,7 +48,7 @@
         <display value="Patient - Child (Baby G Quinn)"/>
     </subject>
     <encounter>
-        <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-encounter-maternity-reference">
+        <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-encounter-maternity-reference">
             <valueReference>
                 <reference value="Encounter/encounter-maternity-jada-ann-quinn"/>
             </valueReference>

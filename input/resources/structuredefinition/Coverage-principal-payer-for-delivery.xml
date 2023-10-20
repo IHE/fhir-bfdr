@@ -6,7 +6,7 @@
         <versionId value="16"/>
         <lastUpdated value="2021-07-08T10:40:35.468Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Coverage-principal-payer-for-delivery"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Coverage-principal-payer-for-delivery"/>
     <version value="1.0.0"/>
     <name value="CoveragePrincipalPayerDelivery"/>
     <title value="Coverage - Principal Payer for Delivery"/>

@@ -4,7 +4,7 @@
     <meta>
         <versionId value="2" />
         <lastUpdated value="2023-06-21T10:13:02.267Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-antibiotics-during-labor" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-antibiotics-during-labor" />
     </meta>
     <status value="final" />
     <code>

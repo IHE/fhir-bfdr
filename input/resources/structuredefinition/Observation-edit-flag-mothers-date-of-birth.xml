@@ -6,7 +6,7 @@
         <versionId value="7"/>
         <lastUpdated value="2023-06-19T06:20:18.391Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-mothers-date-of-birth"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-mothers-date-of-birth"/>
     <name value="ObservationEditFlagMothersDateOfBirth"/>
     <title value="Observation - Edit Flag Mother's Date of Birth"/>
     <status value="active"/>

@@ -6,7 +6,7 @@
         <versionId value="20"/>
         <lastUpdated value="2023-06-21T05:48:54.024Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-obstetric"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-obstetric"/>
     <name value="ProcedureObstetric"/>
     <title value="Procedure - Obstetric"/>
     <status value="active"/>

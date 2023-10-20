@@ -6,7 +6,7 @@
         <versionId value="4"/>
         <lastUpdated value="2023-06-19T06:22:10.124Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-icu-admission"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-icu-admission"/>
     <name value="ObservationICUAdmission"/>
     <title value="Observation - ICU Admission"/>
     <status value="active"/>

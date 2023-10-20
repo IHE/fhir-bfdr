@@ -6,7 +6,7 @@
         <versionId value="5"/>
         <lastUpdated value="2023-06-19T06:22:10.086Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-none-of-specified-characteristics-labor-delivery"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-none-of-specified-characteristics-labor-delivery"/>
     <name value="ObservationNoneOfSpecifiedCharacteristicsOfLaborAndDelivery"/>
     <title value="Observation - None Of Specified Characteristics of Labor and Delivery"/>
     <status value="active"/>

@@ -6,7 +6,7 @@
         <versionId value="7"/>
         <lastUpdated value="2023-06-19T06:20:18.344Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-fathers-education"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-fathers-education"/>
     <name value="ObservationEditFlagFathersEducation"/>
     <title value="Observation - Edit Flag Father's Education"/>
     <status value="active"/>

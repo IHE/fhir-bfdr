@@ -6,7 +6,7 @@
         <versionId value="3"/>
         <lastUpdated value="2023-06-19T06:22:09.966Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-antibiotic-suspected-neonatal-sepsis"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-antibiotic-suspected-neonatal-sepsis"/>
     <name value="ProcedureAntibioticSuspectedNeonatalSepsis"/>
     <title value="Procedure - Antibiotic for Suspected Neonatal Sepsis"/>
     <status value="active"/>

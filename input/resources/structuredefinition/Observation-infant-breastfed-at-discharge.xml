@@ -6,7 +6,7 @@
         <versionId value="15"/>
         <lastUpdated value="2023-06-19T06:20:17.954Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-infant-breastfed-at-discharge"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-infant-breastfed-at-discharge"/>
     <name value="ObservationInfantBreastfedAtDischarge"/>
     <title value="Observation - Infant Breastfed at Discharge"/>
     <status value="active"/>

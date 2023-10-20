@@ -6,7 +6,7 @@
         <versionId value="11"/>
         <lastUpdated value="2023-06-21T21:34:58.869Z"/>
     </meta>
-    <questionnaire value="http://hl7.org/fhir/us/bfdr/Questionnaire/Questionnaire-mothers-live-birth"/>
+    <questionnaire value="https://profiles.ihe.net/QRPH/bfdr/Questionnaire/Questionnaire-mothers-live-birth"/>
     <status value="completed"/>
     <subject>
         <reference value="Patient/patient-child-babyg-quinn"/>

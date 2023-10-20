@@ -6,7 +6,7 @@
         <versionId value="1"/>
         <lastUpdated value="2023-06-21T23:24:23.601Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-replacement-status"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-replacement-status"/>
     <name value="ExtensionReplacementStatus"/>
     <title value="Extension - Replacement Status"/>
     <status value="active"/>
@@ -41,7 +41,7 @@
         </element>
         <element id="Extension.url">
             <path value="Extension.url"/>
-            <fixedUri value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-replacement-status"/>
+            <fixedUri value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-replacement-status"/>
         </element>
         <element id="Extension.value[x]">
             <path value="Extension.value[x]"/>
@@ -52,7 +52,7 @@
             </type>
             <binding>
                 <strength value="required"/>
-                <valueSet value="http://hl7.org/fhir/us/bfdr/ValueSet/ValueSet-replacement-status"/>
+                <valueSet value="https://profiles.ihe.net/QRPH/bfdr/ValueSet/ValueSet-replacement-status"/>
             </binding>
         </element>
     </differential>

@@ -5,7 +5,7 @@
     <meta>
         <versionId value="1"/>
         <lastUpdated value="2023-06-21T06:48:34.272Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-assisted-ventilation-following-delivery"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-assisted-ventilation-following-delivery"/>
     </meta>
     <status value="completed"/>
     <code>

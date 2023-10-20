@@ -5,9 +5,9 @@
     <meta>
         <versionId value="31"/>
         <lastUpdated value="2023-08-29T06:22:36.952Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-jurisdiction-fetal-death-report"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-jurisdiction-fetal-death-report"/>
     </meta>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-report-number">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-report-number">
         <valueIdentifier>
             <type>
                 <coding>
@@ -18,7 +18,7 @@
             <value value="9876"/>
         </valueIdentifier>
     </extension>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-local-file-number">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-local-file-number">
         <valueIdentifier>
             <type>
                 <coding>
@@ -29,13 +29,13 @@
             <value value="11111-11111"/>
         </valueIdentifier>
     </extension>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-date-received-by-registrar">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-date-received-by-registrar">
         <valueDateTime value="2019-02-12"/>
     </extension>
-    <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-replacement-status">
+    <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-replacement-status">
         <valueCodeableConcept>
             <coding>
-                <system value="http://hl7.org/fhir/us/bfdr/CodeSystem/CodeSystem-replacement-status"/>
+                <system value="https://profiles.ihe.net/QRPH/bfdr/CodeSystem/CodeSystem-replacement-status"/>
                 <code value="original"/>
             </coding>
         </valueCodeableConcept>

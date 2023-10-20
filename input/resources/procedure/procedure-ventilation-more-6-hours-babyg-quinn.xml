@@ -5,7 +5,7 @@
     <meta>
         <versionId value="1"/>
         <lastUpdated value="2023-06-21T06:41:21.937Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-assisted-ventilation-more-than-six-hours"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-assisted-ventilation-more-than-six-hours"/>
     </meta>
     <status value="completed"/>
     <code>

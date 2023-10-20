@@ -4,7 +4,7 @@
     <meta>
         <versionId value="49" />
         <lastUpdated value="2023-08-29T06:19:09.691Z" />
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Bundle-document-bfdr" />
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Bundle-document-bfdr" />
     </meta>
     <identifier>
         <system value="urn:ietf:rfc:3986" />
@@ -18,9 +18,9 @@
             <Composition>
                 <id value="composition-jurisdiction-fetal-death-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Composition-jurisdiction-fetal-death-report" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Composition-jurisdiction-fetal-death-report" />
                 </meta>
-                <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-report-number">
+                <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-report-number">
                     <valueIdentifier>
                         <type>
                             <coding>
@@ -31,7 +31,7 @@
                         <value value="9876" />
                     </valueIdentifier>
                 </extension>
-                <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-fetal-death-local-file-number">
+                <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-fetal-death-local-file-number">
                     <valueIdentifier>
                         <type>
                             <coding>
@@ -42,13 +42,13 @@
                         <value value="11111-11111" />
                     </valueIdentifier>
                 </extension>
-                <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-date-received-by-registrar">
+                <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-date-received-by-registrar">
                     <valueDateTime value="2019-02-12" />
                 </extension>
-                <extension url="http://hl7.org/fhir/us/bfdr/StructureDefinition/Extension-replacement-status">
+                <extension url="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Extension-replacement-status">
                     <valueCodeableConcept>
                         <coding>
-                            <system value="http://hl7.org/fhir/us/bfdr/CodeSystem/CodeSystem-replacement-status" />
+                            <system value="https://profiles.ihe.net/QRPH/bfdr/CodeSystem/CodeSystem-replacement-status" />
                             <code value="original" />
                         </coding>
                     </valueCodeableConcept>
@@ -335,7 +335,7 @@
             <Encounter>
                 <id value="encounter-maternity-carmen-teresa-lee" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Encounter-maternity" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Encounter-maternity" />
                 </meta>
                 <identifier>
                     <system value="http://hospital.smarthealthit.org" />
@@ -501,7 +501,7 @@
             <Observation>
                 <id value="observation-planned-to-deliver-at-home-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-planned-to-deliver-at-home" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-planned-to-deliver-at-home" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -534,7 +534,7 @@
             <Observation>
                 <id value="observation-date-of-first-prenatal-care-visit-carmen-teresa-lee" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-first-prenatal-care-visit" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -654,7 +654,7 @@
             <Observation>
                 <id value="observation-date-of-last-live-birth-carmen-teresa-lee" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-date-of-last-live-birth" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-date-of-last-live-birth" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -767,7 +767,7 @@
             <Observation>
                 <id value="observation-mother-received-wic-food-carmen-teresa-lee" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-mother-received-wic-food" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-mother-received-wic-food" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -806,7 +806,7 @@
             <Observation>
                 <id value="observation-cig-smoking-pregnancy-1-carmen-teresa-lee" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -839,7 +839,7 @@
             <Observation>
                 <id value="observation-cig-smoking-pregnancy-2-carmen-teresa-lee" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -872,7 +872,7 @@
             <Observation>
                 <id value="observation-cig-smoking-pregnancy-3-carmen-teresa-lee" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -905,7 +905,7 @@
             <Observation>
                 <id value="observation-cig-smoking-pregnancy-4-carmen-teresa-lee" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-cigarette-smoking-before-during-pregnancy" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -967,7 +967,7 @@
             <Observation>
                 <id value="observation-fetal-presentation-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-fetal-presentation" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-fetal-presentation" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1001,7 +1001,7 @@
             <Procedure>
                 <id value="procedure-final-route-method-delivery-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Procedure-final-route-method-delivery" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Procedure-final-route-method-delivery" />
                 </meta>
                 <status value="completed" />
                 <code>
@@ -1098,7 +1098,7 @@
             <Condition>
                 <id value="condition-fetal-death-cause-or-condition-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-fetal-death-cause-or-condition" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-fetal-death-cause-or-condition" />
                 </meta>
                 <category>
                     <coding>
@@ -1135,7 +1135,7 @@
             <Condition>
                 <id value="condition-fetal-death-other-significant-cause-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-fetal-death-other-cause-or-condition" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-fetal-death-other-cause-or-condition" />
                 </meta>
                 <category>
                     <coding>
@@ -1172,7 +1172,7 @@
             <Observation>
                 <id value="observation-fetal-death-time-point-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-estimated-fetal-death-time-point" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-estimated-fetal-death-time-point" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1240,7 +1240,7 @@
             <Observation>
                 <id value="observation-histological-placental-exam-performed-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-histological-placental-exam-performed" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-histological-placental-exam-performed" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1274,7 +1274,7 @@
             <Observation>
                 <id value="observation-autopsy-histological-exam-results-used-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-autopsy-histological-exam-results-used" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-autopsy-histological-exam-results-used" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1347,7 +1347,7 @@
             <Observation>
                 <id value="observation-edit-flag-delivery-wgt-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-birthweight" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-birthweight" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1381,7 +1381,7 @@
             <Observation>
                 <id value="observation-edit-flag-est-gestation-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-estimate-of-gestation" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-estimate-of-gestation" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1415,7 +1415,7 @@
             <Observation>
                 <id value="observation-edit-flag-mothers-dob-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-mothers-date-of-birth" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-mothers-date-of-birth" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1449,7 +1449,7 @@
             <Observation>
                 <id value="observation-edit-flag-mothers-education-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-mothers-education" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-mothers-education" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1483,7 +1483,7 @@
             <Observation>
                 <id value="observation-edit-flag-mothers-height-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-mothers-height" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-mothers-height" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1517,7 +1517,7 @@
             <Observation>
                 <id value="observation-edit-flag-mothers-prepreg-wgt-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-mothers-prepregnancy-weight" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-mothers-prepregnancy-weight" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1551,7 +1551,7 @@
             <Observation>
                 <id value="observation-edit-flag-nbr-previous-cesareans-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-number-previous-cesareans" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-number-previous-cesareans" />
                 </meta>
                 <status value="final" />
                 <code>
@@ -1585,7 +1585,7 @@
             <Observation>
                 <id value="observation-edit-flag-plurality-not-named" />
                 <meta>
-                    <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-edit-flag-plurality" />
+                    <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-edit-flag-plurality" />
                 </meta>
                 <status value="final" />
                 <code>

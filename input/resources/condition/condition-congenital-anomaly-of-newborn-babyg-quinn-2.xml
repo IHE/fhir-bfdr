@@ -5,7 +5,7 @@
     <meta>
         <versionId value="3"/>
         <lastUpdated value="2023-04-18T10:17:36.911Z"/>
-        <profile value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Condition-congenital-anomaly-of-newborn"/>
+        <profile value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Condition-congenital-anomaly-of-newborn"/>
     </meta>
     <clinicalStatus>
         <coding>

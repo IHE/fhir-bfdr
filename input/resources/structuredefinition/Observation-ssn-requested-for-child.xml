@@ -6,7 +6,7 @@
         <versionId value="15"/>
         <lastUpdated value="2023-04-25T09:53:31.013Z"/>
     </meta>
-    <url value="http://hl7.org/fhir/us/bfdr/StructureDefinition/Observation-ssn-requested-for-child"/>
+    <url value="https://profiles.ihe.net/QRPH/bfdr/StructureDefinition/Observation-ssn-requested-for-child"/>
     <name value="ObservationSSNRequestedForChild"/>
     <title value="Observation - Social Security Number Requested For Child"/>
     <status value="active"/>
